@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aoko29
 
 
-- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse,ps,ai,pr,ae,blender,unity,flutter&perline=4)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse,ps,ai,pr,ae,blender,unity&perline=4)](https://skillicons.dev)
 
 
 <!---
