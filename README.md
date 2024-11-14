@@ -4,7 +4,7 @@
 >
 > 欲成何事? 能成何事?
 
-- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse,ps,ai,pr,ae,blender,unity&perline=4)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,blender,unity,ps,dotnet,cs,py,java,ai&perline=6)](https://skillicons.dev)
 
 
 <!---
