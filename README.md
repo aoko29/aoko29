@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aoko29
 
-> /成事几何? /败事几何?
+> 成事几何? 败事几何?
 >
-> /欲成何事? /能成何事?
+> 欲成何事? 能成何事?
 
 - [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,idea,eclipse,ps,ai,pr,ae,blender,unity&perline=4)](https://skillicons.dev)
 
